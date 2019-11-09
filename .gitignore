@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# firebase 
+
+**/secrets.json
+**/firebase-debug.log
+**/node_modules
+**/bower_components
+**/*.bak
+.idea
+.firebaserc
